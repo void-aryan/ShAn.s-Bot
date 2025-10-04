@@ -12,14 +12,15 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "SH AN BOT",
-	"prefix": "/",
+	"nickNameBot": "ARY BOT",
+	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100045644423035"
+		"61568791604271",
+		"61580333625022"
 	],
 	"owner": ["100045644423035"],
 	"whiteListMode": {
